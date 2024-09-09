@@ -1,4 +1,3 @@
-/*
 import React from 'react';
 
 export interface DashboardCardProps {
@@ -14,4 +13,3 @@ export default function DashboardCard({ label, children }: DashboardCardProps) {
         </div>
     );
 }
-*/

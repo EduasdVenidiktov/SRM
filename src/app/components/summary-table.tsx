@@ -1,4 +1,3 @@
-/*
 import React from 'react';
 
 export interface SummaryTableProps {
@@ -18,5 +17,3 @@ export default function SummaryTable({ headers, children }: SummaryTableProps) {
         </table>
     );
 }
-
- */
